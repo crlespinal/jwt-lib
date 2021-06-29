@@ -1,0 +1,7 @@
+spring:
+    datasource:
+        url: jdbc:mysql://localhost:3306/jwt_blacklisted
+        username: root
+        password: 123
+    jpa:
+        show-sql: true
